@@ -1,2 +1,0 @@
-# OSR-CDI
-yaa
